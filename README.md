@@ -35,8 +35,7 @@ The dashboard provides insights into:
 
 ### Election Overview
 
-![Overview](<img width="727" height="499" alt="Screenshot 2026-06-04 174628" src="https://github.com/user-attachments/assets/6d3c4327-fff1-4154-b3d0-f68bb9052cdd" />
-)
+![Overview](Screenshot 2026-06-04 174628.png)
 
 ### Party Comparison
 
