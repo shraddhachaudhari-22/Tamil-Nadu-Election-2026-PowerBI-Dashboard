@@ -43,7 +43,7 @@ The dashboard provides insights into:
 
 ### TVK Deep Dive
 
-![TVK](<img width="721" height="496" alt="Screenshot 2026-06-04 174406" src="https://github.com/user-attachments/assets/6cc44b57-1e02-4cc6-bf17-75a52d2c37b0" />)
+![TVK](Screenshot 2026-06-04 174406.png)
 
 
 ## Key Learnings
