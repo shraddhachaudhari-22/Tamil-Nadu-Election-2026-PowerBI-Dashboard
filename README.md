@@ -39,7 +39,7 @@ The dashboard provides insights into:
 
 ### Party Comparison
 
-![Comparison](Screenshot 2026-06-04 174406.png)
+![Comparison](Screenshot 2026-06-04 174548.png)
 
 ### TVK Deep Dive
 
