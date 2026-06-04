@@ -1,2 +1,61 @@
-# Tamil-Nadu-Election-2026-PowerBI-Dashboard
-Interactive Power BI dashboard analyzing Tamil Nadu Assembly Election 2026 results with seat share, vote share, alliance performance, regional trends, and constituency-level insights
+# Tamil Nadu Assembly Election 2026 Dashboard
+
+## Project Overview
+
+This Power BI dashboard analyzes Tamil Nadu Assembly Election 2026 results using constituency-level data.
+
+The dashboard provides insights into:
+
+- Seat Share Analysis
+- Vote Share Analysis
+- Alliance Performance
+- Regional Performance
+- Swing Analysis (2021 vs 2026)
+- TVK Deep Dive
+- Constituency-Level Insights
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+## Key KPIs
+
+- Total Seats Won
+- Vote Share %
+- Strike Rate
+- Regional Seat Share
+- Vote Share Growth
+- Largest Party
+- Alliance Performance
+
+## Dashboard Screenshots
+
+### Election Overview
+
+![Overview](<img width="727" height="499" alt="Screenshot 2026-06-04 174628" src="https://github.com/user-attachments/assets/6d3c4327-fff1-4154-b3d0-f68bb9052cdd" />
+)
+
+### Party Comparison
+
+![Comparison](<img width="722" height="496" alt="Screenshot 2026-06-04 174548" src="https://github.com/user-attachments/assets/c202f391-5186-4a7e-a7ac-78b109fe51b4" />
+)
+
+### TVK Deep Dive
+
+![TVK](<img width="721" height="496" alt="Screenshot 2026-06-04 174406" src="https://github.com/user-attachments/assets/6cc44b57-1e02-4cc6-bf17-75a52d2c37b0" />)
+
+
+## Key Learnings
+
+- Data Cleaning using Power Query
+- DAX Measure Creation
+- Data Modeling
+- Interactive Dashboard Design
+- Data Storytelling
+
+## Author
+
+Shraddha Chaudhari
