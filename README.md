@@ -39,8 +39,7 @@ The dashboard provides insights into:
 
 ### Party Comparison
 
-![Comparison](<img width="722" height="496" alt="Screenshot 2026-06-04 174548" src="https://github.com/user-attachments/assets/c202f391-5186-4a7e-a7ac-78b109fe51b4" />
-)
+![Comparison](Screenshot 2026-06-04 174406.png)
 
 ### TVK Deep Dive
 
